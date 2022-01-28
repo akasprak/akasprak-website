@@ -70,8 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Alan Kasprak is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an assistant professor in the Department of Geosciences. My research focuses understanding physical and biological processes in river systems using geospatial techniques. I am currently using GIS and remote sensing data to examine the impacts of large dams on the geomorphology, sediment transport, and land cover of the Colorado River corridor through the Canyonlands and Grand Canyon regions of the Southwestern U.S. I also conduct research into the role of in-channel wood in driving changes in stream morphology and fish habitat in rivers of the Greater Yellowstone Ecosystem. In addition to these field-based projects, I’ve conducted laboratory and numerical modeling studies of river response to altered sediment and water supply.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
