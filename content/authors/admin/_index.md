@@ -66,4 +66,8 @@ highlight_name: true
 
 I am an assistant professor in the Department of Geosciences. My research focuses understanding physical and biological processes in river systems using geospatial techniques. I am currently using GIS and remote sensing data to examine the impacts of large dams on the geomorphology, sediment transport, and land cover of the Colorado River corridor through the Canyonlands and Grand Canyon regions of the Southwestern U.S. I also conduct research into the role of in-channel wood in driving changes in stream morphology and fish habitat in rivers of the Greater Yellowstone Ecosystem. In addition to these field-based projects, I’ve conducted laboratory and numerical modeling studies of river response to altered sediment and water supply.
 
+<<<<<<< HEAD
 {{< icon name="download" pack="fas" >}} Download a copy of my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}} here.
+=======
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+>>>>>>> parent of 3c74558 (Update _index.md)
