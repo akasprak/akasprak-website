@@ -1,38 +1,38 @@
 ---
 # Display name
-title: Alan Kasprak
+title: Nelson Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Fort Lewis College
-  url: https://www.fortlewis.edu/academics/schools-departments/faculty-directory/kasprak
+- name: Stanford University
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I conduct research on the impacts of large dams on the eco-geomorphology of rivers across the Colorado Plateau. I also teach courses in geographic information systems, remote sensing, and spatial data programming.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Fluvial Geomorphology
-- Remote Sensing/GIS
-- River Restoration
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Watershed Science
-    institution: Utah State University
-    year: 2015
-  - course: MS in Earth Science
-    institution: Dartmouth College
-    year: 2010
-  - course: BS in Geology/Geophysics
-    institution: Boston College
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
     year: 2008
 
 # Social/Academic Networking
@@ -43,12 +43,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=NyOKnC4AAAAJ&hl=en
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/akasprak
+  link: https://github.com/gcushen
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -58,16 +64,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "akasprak@fortlewis.edu"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am an assistant professor in the Department of Geosciences. My research focuses understanding physical and biological processes in river systems using geospatial techniques. I am currently using GIS and remote sensing data to examine the impacts of large dams on the geomorphology, sediment transport, and land cover of the Colorado River corridor through the Canyonlands and Grand Canyon regions of the Southwestern U.S. I also conduct research into the role of in-channel wood in driving changes in stream morphology and fish habitat in rivers of the Greater Yellowstone Ecosystem. In addition to these field-based projects, I’ve conducted laboratory and numerical modeling studies of river response to altered sediment and water supply.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-<<<<<<< HEAD
-{{< icon name="download" pack="fas" >}} Download a copy of my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}} here.
-=======
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
->>>>>>> parent of 3c74558 (Update _index.md)
