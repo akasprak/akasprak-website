@@ -6,10 +6,10 @@ tags:
 date: "2022-02-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+# external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: A coupled fluvial sandbar and aeolian dune along the Colorado River in Grand Canyon. Photo by Joel Sankey, USGS.
   focal_point: Smart
 
 links:
@@ -17,10 +17,10 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -31,3 +31,4 @@ url_video: ""
 ---
 
 Details coming soon!
+
