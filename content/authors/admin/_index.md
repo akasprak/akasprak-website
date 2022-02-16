@@ -64,9 +64,9 @@ social:
 highlight_name: true
 ---
 
-I am an Assistant Professor in the [Geosciences Department](https://www.fortlewis.edu/academics/schools-departments/departments/geosciences-department/geosciences-home) at Fort Lewis College in Durango, Colorado. I also direct our Certificate program in Geographic Information Science. In addition to my primary appointment at FLC, I hold a faculty appointment as a hydrologist with the U.S. Geological Survey's Grand Canyon Monitoring and Research Center.
+I am an Assistant Professor in the [Geosciences Department](https://www.fortlewis.edu/academics/schools-departments/departments/geosciences-department/geosciences-home) at [Fort Lewis College](https://www.fortlewis.edu/) in Durango, Colorado. I also direct our [Geographic Information Science Certificate](https://www.fortlewis.edu/academics/schools-departments/departments/geosciences-department/about-our-program/gis-certificate) program. In addition to my primary appointment at FLC, I hold a faculty appointment as a Hydrologist with the U.S. Geological Survey's [Grand Canyon Monitoring and Research Center](https://www.usgs.gov/centers/sbsc/about/gcmrc).
 
 My research focuses on understanding physical and biological processes in river systems using geospatial techniques. I am currently using GIS and remote sensing data to examine the impacts of large dams on the geomorphology, sediment transport, and land cover of the Colorado River corridor through the Canyonlands and Grand Canyon regions of the Southwestern U.S. I also conduct research into the role of in-channel wood in driving changes in stream morphology and fish habitat in rivers of the Greater Yellowstone Ecosystem. In addition to these field-based projects, I’ve conducted laboratory and numerical modeling studies of river response to altered sediment and water supply.
 
-{{< icon name="download" pack="fas" >}} For more information, {{< staticref "uploads/kasprak_cv.pdf" "newtab" >}} download a copy of my CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} For more information, {{< staticref "uploads/kasprak_cv.pdf" "newtab" >}} download a copy of my CV{{< /staticref >}} or get in touch at akasprak@fortlewis.edu.
 
