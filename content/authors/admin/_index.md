@@ -70,5 +70,9 @@ My research focuses on understanding physical and biological processes in river 
 
 At FLC, I teach courses in GIS/Remote Sensing, Python programming for spatial data analysis, and river eco-geomorphology.
 
-{{< icon name="download" pack="fas" >}} For more information, {{< staticref "uploads/kasprak_cv.pdf" "newtab" >}} download a copy of my CV{{< /staticref >}} or get in touch at akasprak@fortlewis.edu.
+ For more information:
+
+ {{< icon name="download" pack="fas" >}} {{< staticref "uploads/kasprak_cv.pdf" "newtab" >}} Download a copy of my CV{{< /staticref >}} 
+
+ {{< icon name="envelope" pack="fas" >}} Get in touch at akasprak@fortlewis.edu.
 
