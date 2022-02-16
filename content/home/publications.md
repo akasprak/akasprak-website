@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Featured Publications
-subtitle: 'For all publications/talks/posters, see my Google Scholar page'
+subtitle: 'For a complete list, see my CV at the top of the page'
 
 content:
   # Filter on criteria
