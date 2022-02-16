@@ -1,6 +1,6 @@
 ---
 title: Grand Canyon Exposed Sediment Mapping
-summary: An example of using the in-built project page.
+summary: Mapping land cover response to river regulation from field and remote sensing data along more than 100 miles of the Colorado River.
 tags:
 - Research
 date: "2022-02-16T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2022-02-16T00:00:00Z"
 # external_link: ""
 
 image:
-  caption: A coupled fluvial sandbar and aeolian dune along the Colorado River in Grand Canyon. Photo by Joel Sankey, USGS.
+  caption: Photo by Joel Sankey, USGS.
   focal_point: Smart
 
 links:
