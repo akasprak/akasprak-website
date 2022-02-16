@@ -14,7 +14,7 @@ organizations:
   url: https://www.fortlewis.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I study river processes and management through the lens of GIS and remote sensing.
 
 # Interests to show in About widget
 interests:
