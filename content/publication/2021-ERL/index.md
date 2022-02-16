@@ -1,5 +1,5 @@
 ---
-title: "Test Paper Title"
+title: "Future regulated flows of the Colorado River in Grand Canyon foretell decreased areal extent of sediment and increases in riparian vegetation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -41,8 +41,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: https://iopscience.iop.org/article/10.1088/1748-9326/abc9e4/meta
+ - name: Custom Link
+   url: https://iopscience.iop.org/article/10.1088/1748-9326/abc9e4/meta
 
 url_pdf: ''
 url_code: ''
@@ -73,7 +73,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#   slides: example
 ---
 
 {{% callout note %}}
@@ -85,3 +85,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
