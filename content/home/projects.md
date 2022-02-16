@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Current Projects
 subtitle: ''
 
 content:
@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Research
+    tag: Research
+  - name: Teaching
+    tag: Teaching
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
