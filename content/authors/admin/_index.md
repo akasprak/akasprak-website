@@ -69,3 +69,4 @@ I am an Assistant Professor in the Geosciences Department at Fort Lewis College 
 My research focuses on understanding physical and biological processes in river systems using geospatial techniques. I am currently using GIS and remote sensing data to examine the impacts of large dams on the geomorphology, sediment transport, and land cover of the Colorado River corridor through the Canyonlands and Grand Canyon regions of the Southwestern U.S. I also conduct research into the role of in-channel wood in driving changes in stream morphology and fish habitat in rivers of the Greater Yellowstone Ecosystem. In addition to these field-based projects, I’ve conducted laboratory and numerical modeling studies of river response to altered sediment and water supply.
 
 {{< icon name="download" pack="fas" >}} For more information, {{< staticref "uploads/kasprak_cv.pdf" "newtab" >}} download a copy of my CV{{< /staticref >}}.
+
