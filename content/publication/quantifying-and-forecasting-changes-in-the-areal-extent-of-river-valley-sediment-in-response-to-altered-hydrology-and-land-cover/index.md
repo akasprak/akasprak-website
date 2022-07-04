@@ -4,8 +4,12 @@ title: Quantifying and forecasting changes in the areal extent of river valley
 publication_types:
   - "2"
 authors:
-  - Alan Kasprak and Joel B Sankey and Daniel Buscombe and Joshua Caster and Amy
-    E East and Paul E Grams
+  - admin
+  - Joel B Sankey
+  - Daniel Buscombe
+  - Joshua Caster
+  - Amy East
+  - Paul Grams
 author_notes: []
 doi: 10.1177/0309133318795846
 publication: "Progress in Physical Geography: Earth and Environment"
@@ -39,6 +43,8 @@ abstract: In river valleys, sediment moves between active river channels,
   corridor scale.
 draft: false
 featured: true
+projects:
+  - gc-sand
 image:
   filename: featured
   focal_point: Smart
