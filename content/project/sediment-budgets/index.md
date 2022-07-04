@@ -9,7 +9,7 @@ date: "2022-07-05T00:00:00Z"
 # external_link: ""
 
 image:
-  caption: Photo by Joel Sankey, USGS.
+  caption: 
   focal_point: Smart
 
 links:

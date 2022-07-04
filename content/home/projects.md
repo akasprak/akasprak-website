@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Current Projects
+title: Current Projects2
 subtitle: ''
 
 content:
