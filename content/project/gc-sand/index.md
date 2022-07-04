@@ -30,5 +30,5 @@ links:
 # slides: example
 ---
 
-Details coming soon!
+Testing!
 
