@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Featured Publications
+title: Featured Publications2
 subtitle: 'For a complete list, see my CV at the top of the page'
 
 content:
