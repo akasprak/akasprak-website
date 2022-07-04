@@ -1,6 +1,6 @@
 ---
 title: Sediment Budgeting from Remote Sensing and In-Situ Data
-date: 2022-07-05T00:00:00Z
+date: 2022-07-04T22:53:29.895Z
 summary: A sediment budget measures how much material is being gained or lost by
   a landscape of interest over a given time period. Sediment budgets are
   frequently applied to rivers, dunefields, and coasts, and we're also beginning
