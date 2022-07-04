@@ -5,6 +5,8 @@ summary: Understanding how river valleys re-emerge following inundation by
   reservoirs across the American West.
 draft: false
 featured: true
+tags:
+  - Research
 image:
   filename: featured
   focal_point: Smart
