@@ -5,7 +5,7 @@ summary: Training the next generation of spatial scientists at Fort Lewis Colleg
 draft: false
 featured: false
 tags:
-  - teaching
+  - Teaching
 image:
   filename: featured
   focal_point: Smart
