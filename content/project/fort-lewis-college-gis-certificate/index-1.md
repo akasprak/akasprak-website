@@ -3,7 +3,7 @@ title: Fort Lewis College GIS Certificate
 date: 2022-07-05T17:53:36.184Z
 summary: Training the next generation of spatial scientists at Fort Lewis College
 draft: false
-featured: true
+featured: false
 tags:
   - Teaching
 image:
