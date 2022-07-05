@@ -5,7 +5,7 @@ summary: Teaching the connectivity between physical and biological processes in 
 draft: false
 featured: false
 tags:
-  - teaching
+  - Teaching
 image:
   filename: featured
   focal_point: Smart
