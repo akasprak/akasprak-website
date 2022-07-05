@@ -45,12 +45,13 @@ url_source: ""
 url_video: ""
 publication: In *Environmental Research Letters*
 featured: true
-date: 2021-01-28T00:00:00Z
+date: 2021-01-28T00:00:00.000Z
 url_slides: ""
 title: Future regulated flows of the Colorado River in Grand Canyon foretell
   decreased areal extent of sediment and increases in riparian vegetation
 tags: []
-projects: []
+projects:
+  - connectivity-in-river-corridors
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
