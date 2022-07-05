@@ -4,6 +4,8 @@ date: 2022-07-01T18:06:10.527Z
 summary: Training the next generation of spatial scientists at Fort Lewis College
 draft: false
 featured: false
+tags:
+  - Teaching
 image:
   filename: featured.png
   focal_point: Smart
