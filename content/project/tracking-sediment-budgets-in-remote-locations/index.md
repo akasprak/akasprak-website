@@ -6,7 +6,7 @@ summary: Improving our ability to cost-effectively and accurately monitor
 draft: false
 featured: false
 tags:
-  - research
+  - Research
 image:
   filename: featured
   focal_point: Smart
