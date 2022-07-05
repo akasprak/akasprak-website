@@ -5,7 +5,7 @@ summary: Mapping sediment fluxes in rivers from the channel bed to uplands
 draft: false
 featured: false
 tags:
-  - research
+  - Research
 image:
   filename: featured
   focal_point: Smart
