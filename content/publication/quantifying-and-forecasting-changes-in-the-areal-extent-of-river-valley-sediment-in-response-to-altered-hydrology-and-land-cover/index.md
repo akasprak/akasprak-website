@@ -45,7 +45,7 @@ abstract: In river valleys, sediment moves between active river channels,
 draft: false
 featured: true
 projects:
-  - gc-sand
+  - connectivity-in-river-corridors
 image:
   filename: featured
   focal_point: Smart
