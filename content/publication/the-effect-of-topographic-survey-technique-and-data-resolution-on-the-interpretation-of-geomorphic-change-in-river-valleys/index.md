@@ -52,7 +52,7 @@ abstract: Change detection of high resolution topographic data is commonly used
 draft: false
 featured: true
 projects:
-  - sediment-budgets
+  - tracking-sediment-budgets-in-remote-locations
 image:
   filename: featured
   focal_point: Smart
