@@ -54,7 +54,7 @@ url_slides: ""
 title: Can we accurately estimate sediment budgets on Mars?
 tags: []
 projects:
-  - sediment-budgets
+  - tracking-sediment-budgets-in-remote-locations
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
