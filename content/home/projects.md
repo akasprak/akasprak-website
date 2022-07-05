@@ -3,8 +3,8 @@ widget: portfolio
 widget_id: projects
 headless: true
 weight: 65
-title: Current Projects
-subtitle: ""
+title: Featured Projects
+subtitle: A subset of the research and teaching projects I'm working on at the moment
 active: true
 content:
   page_type: project
