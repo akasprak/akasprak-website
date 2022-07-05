@@ -12,7 +12,8 @@ authors:
   - Paul Grams
 author_notes: []
 doi: 10.1177/0309133318795846
-publication: "Progress in Physical Geography: Earth and Environment"
+publication: "In *Progress in Physical Geography: Earth and Environment*"
+publication_short: "In *Progress in Physical Geography: Earth and Environment*"
 abstract: In river valleys, sediment moves between active river channels,
   near-channel deposits including bars and floodplains, and upland environments
   such as terraces and aeolian dunefields. Sediment availability is a
