@@ -1,5 +1,5 @@
 ---
-title: Sediment Budgeting from Remote Sensing and In-Situ Data
+title: Tracking Sediment Budgets in Remote Locations
 date: 2022-07-04T22:53:29.895Z
 summary: Improving our ability to cost-effectively and accurately monitor
   landscape change at remote sites.
