@@ -10,7 +10,8 @@ authors:
   - Temuulen Sankey
   - Joshua Caster
 doi: 10.1016/j.geomorph.2019.02.020
-publication: Geomorphology
+publication: In *Geomorphology*
+publication_short: In *Geomorphology*
 abstract: Change detection of high resolution topographic data is commonly used
   in river valleys to quantify reach- and site-scale sediment budgets by
   estimating the erosion/deposition volume, and to interpret the geomorphic
