@@ -1,8 +1,7 @@
 ---
 title: Remote Sensing of River Eco-Geomorphology
-date: 2022-02-16T00:00:00Z
-summary: Mapping land cover response to river regulation from field and remote
-  sensing data along more than 100 miles of the Colorado River.
+date: 2022-02-16T00:00:00.000Z
+summary: Mapping sediment fluxes in rivers from the channel bed to uplands
 tags:
   - Research
 links: null
