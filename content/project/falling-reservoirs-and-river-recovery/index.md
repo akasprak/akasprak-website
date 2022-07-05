@@ -6,7 +6,7 @@ summary: Understanding how river valleys re-emerge following inundation by
 draft: false
 featured: false
 tags:
-  - research
+  - Research
 image:
   filename: featured
   focal_point: Smart
