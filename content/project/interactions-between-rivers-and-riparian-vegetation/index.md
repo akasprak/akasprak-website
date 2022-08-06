@@ -4,7 +4,7 @@ date: 2022-08-05T22:49:51.572Z
 draft: false
 featured: true
 image:
-  filename: timeseries.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
   caption: A timeseries of aerial photographs along the Dolores River, Colorado,
