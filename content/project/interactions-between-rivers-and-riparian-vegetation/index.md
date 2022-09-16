@@ -3,6 +3,8 @@ title: Interactions Between Rivers and Riparian Vegetation
 date: 2022-08-05T22:49:51.572Z
 draft: false
 featured: true
+tags:
+  - Research
 image:
   filename: featured.png
   focal_point: Smart
