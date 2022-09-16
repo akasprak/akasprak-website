@@ -1,7 +1,7 @@
 ---
 title: Hydrologic Alteration and Restoration of Regulated Rivers
 date: 2022-07-05T15:54:09.495Z
-summary: Mapping sediment fluxes in rivers from the channel bed to uplands
+summary: How do changes in hydrology affect biophysical processes in river corridors?
 draft: false
 featured: false
 tags:
