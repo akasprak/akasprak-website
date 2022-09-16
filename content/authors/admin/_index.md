@@ -4,7 +4,7 @@ role: Assistant Professor of Geoscience
 bio: I study how rivers work, how we affect them, and the ways that we can
   restore their physical and ecological processes.
 interests:
-  - Fluvial Geomorphology
+  - Eco-Hydrology
   - Remote Sensing/GIS
   - River Restoration
 social:
