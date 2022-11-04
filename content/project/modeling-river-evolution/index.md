@@ -13,6 +13,8 @@ This page contains background on modeling river evolution using information on c
 
 If you measure the topography and bathymetry of a river precisely, using tools like high-resolution GPS, laser scanners, and structure-from-motion photogrammetry, you’ll start to discern some order from an initially chaotic appearance. In particular, you’ll notice that areas where sediment gets deposited, or bars, don’t occur randomly. Instead, they exhibit a fairly regular spacing as you move downstream. Here’s an example from a large braided river in New Zealand, but this sort of thing happens in single-thread meandering streams as well.
 
+![](barspacing.png)
+
 *A digital elevation model of the River Rees in New Zealand (data courtesy of <a href="http://www.geog.qmul.ac.uk/staff/brasingtonj.html" target="_blank"> James Brasington, Queen Mary University of London</a>). Note the regularity with which flow divergences occur, shown in red; these mark the upstream edge of a series of mid-channel bars.*
 
 In the field and in laboratory flumes, many geomorphologists have noticed that these bars are typically where they find particles deposited after a flood. In 2009, researchers at the University of Western Ontario hypothesized that the average spacing between bars might be a predictor of the average particle travel distance during a flood, or the particles’ "path lengths."
