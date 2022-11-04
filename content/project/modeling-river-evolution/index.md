@@ -9,11 +9,15 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+![]()
+
 This page contains background on modeling river evolution using information on channel geomorphology. If you'd like to cut to the chase, you can find the <a href="https://github.com/morphed">code behind the MoRPHED model here</a>.
 
 If you measure the topography and bathymetry of a river precisely, using tools like high-resolution GPS, laser scanners, and structure-from-motion photogrammetry, you’ll start to discern some order from an initially chaotic appearance. In particular, you’ll notice that areas where sediment gets deposited, or bars, don’t occur randomly. Instead, they exhibit a fairly regular spacing as you move downstream. Here’s an example from a large braided river in New Zealand, but this sort of thing happens in single-thread meandering streams as well.
 
-A digital elevation model of the River Rees in New Zealand (data courtesy of <a href="http://www.geog.qmul.ac.uk/staff/brasingtonj.html" target="_blank"> James Brasington, Queen Mary University of London</a>). Note the regularity with which flow divergences occur, shown in red; these mark the upstream edge of a series of mid-channel bars.
+![](barspacing.png)
+
+*A digital elevation model of the River Rees in New Zealand (data courtesy of <a href="http://www.geog.qmul.ac.uk/staff/brasingtonj.html" target="_blank"> James Brasington, Queen Mary University of London</a>). Note the regularity with which flow divergences occur, shown in red; these mark the upstream edge of a series of mid-channel bars.*
 
 In the field and in laboratory flumes, many geomorphologists have noticed that these bars are typically where they find particles deposited after a flood. In 2009, researchers at the University of Western Ontario hypothesized that the average spacing between bars might be a predictor of the average particle travel distance during a flood, or the particles’ "path lengths."
 
@@ -21,11 +25,15 @@ If that hypothesis is true, it gives us a chance to address sediment transport i
 
 I first sought to test the hypothesis described above, that particle travel distances during floods are mirrored by the average spacing between bars. Working with <a href="http://geography.uwo.ca/people/faculty/ashmore_peter.html" target="_blank"> Peter Ashmore </a> and <a href="http://grad.uwo.ca/profiles/speirce.html" target="_blank"> Sarah Peirce </a> at the University of Western Ontario and with <a href="http://www.joewheaton.org" target="_blank"> Joe Wheaton </a> and James Hensleigh at Utah State University, I conducted laboratory flume experiments at the University of Western Ontario.                   
 
-The flume at the University of Western Ontario, looking upstream, with Peter Ashmore and Sarah Peirce for scale.
+![](uwo.jpg)
+
+*The flume at the University of Western Ontario, looking upstream, with Peter Ashmore and Sarah Peirce for scale.*
 
 To characterize the form of the channel before and after simulated floods, we captured photos from a camera mounted above the flume and extracted elevation data using structure-from-motion photogrammetry. The resolution of the datasets we were able to produce was on the millimeter scale, meaning we could detect the motion of single grains of sand on the flume bed. It's the first time I'm aware of that SfM has been used at such a fine resolution in a flume setting.
 
-A digital elevation model of the flume produced using structure-from-motion; pixel size is 3 millimeters.
+![](sfm.png)
+
+*A digital elevation model of the flume produced using structure-from-motion; pixel size is 3 millimeters.*
 
 To get a handle on particle travel distances during floods, we measured the average transport distance of marked particles during simulated floods. Particles were placed into the flow, and their initial locations marked. For the particles that we recovered after each of five floods, we measured their downstream travel distance.
 
