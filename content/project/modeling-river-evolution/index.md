@@ -57,6 +57,8 @@ Braided rivers are complex and dynamic systems, marked by a continually shifting
 
 Given the sensitivity of braided rivers to floods, which may completely rearrange channel form in a matter of hours to days, it's reasonable to wonder what effect human factors (such as climate change and land use), which can alter flood size and frequency and/or the amount of sediment delivered to these streams, might have on the form of these streams and their associated habitat. In cases like this, we can turn to field work to document the effect of numerous floods and infer the different mechanisms by which they alter channel form. But given that flood/sediment influencing factors, such as climate change, might take decades to centuries to manifest, it would take many years of field work to understand these mechanisms of change.
 
+![](dod.jpg)
+
 *Bed elevation change on the River Feshie from 2006 to 2007, resulting from one year of floods.*
 
 In such instances, we can turn to modeling as a tool with which to predict the form of braided rivers in response to shifting water and sediment inputs. Unfortunately such long-term predictions (10's-100's of years) that document channel change can be taxing on even powerful computers, given that they need to track individual grains of sediment as they move through the system, and perform a great deal of accounting to compute channel bed change through time (a concept we refer to as morphodynamics).
@@ -65,11 +67,17 @@ One way to deal with the inherent complexity of modeling braided rivers is to ex
 
 In practical terms, the existence of path-lengths during floods means that the time step of our model isn't a second/minute/hour, but rather is one flood. We intend to undertake tracer experiments on study streams in the UK and the US which have potential to provide field-calibrated path-length distributions. These distributions have been found by numerous researchers in flume and field work, but have not been widely incorporated into our models.
 
+![](pathlength_distros.jpg)
+
 *Several empirical and theoretically-derived path-length distributions for particle travel distances.*
 
 The upshot of using a path-length-based approach for modeling sediment transport is that it reduces the computational power necessary for morphodynamic modeling, since we're not tracking every grain of sediment during a flood; this allows us to model longer timespans, and to do so at high resolution - the scale of individual channel pools and bars which comprise local habitat for organisms in braided rivers.
 
 The model we've developed is called the <a href="http://morphed.joewheaton.org" target="_blank"> Model of Riverine Physical Habitat and Ecogeomorphic Dynamics, or MoRPHED</a>. We've been using it, in concert with the Delft3D hydraulic model, to simulate channel evolution over timescales ranging from a single flood to decades on two braided rivers in New Zealand and Scotland. A couple snapshots of model results are shown below, for a one-year period comprising twelve modeled floods.
+
+![](model.png)
+
+![](modelhistogram.png)
 
 *The same comparison of field (left) and model (right) DEMs-of-Difference over a one-year period (12 floods) on the River Feshie, Scotland - instead using elevation change distributions to depict the volume of erosion (red) and deposition (blue).*
 
