@@ -85,13 +85,19 @@ The model we've developed is called the <a href="http://morphed.joewheaton.org" 
 
 In addition to my ongoing research into how sediment moves through rivers and whether that's linked to channel morphology, I'm interested in the factors that drive sediment delivery to streams. This interest actually started back in my master's program, where I looked at <a href="http://www.sciencedirect.com/science/article/pii/S0169555X12005545" target="_blank"> fine sediment in New England streams</a> and whether that could be related to the amount of upstream timber harvest that had recently occurred. It turned out that while we couldn't detect more fine sediment in the stream channel downstream of heavily-logged areas (using traditional methods like pebble counts or embeddedness surveys), we did find that the fines in those areas had been delivered more recently to channels, by measuring the amount of lead-210 in stream sediments.
 
+![](pb210.png)
+
 *More upstream timber harvest, more lead-210, more recently delivered sediment. Figure is from Kasprak et al., 2013.*
 
 We hypothesized that the reason for this was in part due to the low-gradient nature of the landscape: while more fines might have been delivered to channels following timber harvest, that delivery just wasn't rapid enough or of a high enough magnitude to allow for us to detect lots of fine sediment on streambeds, and instead either remained in place or were stored in sinks on the floodplain or valley floor. Given the tools geomorphologists have at their disposal to analyze the form of landscapes, I'm interested in testing these hypotheses and determining which landform characteristics lend themselves to channel-hillslope connectivity and greater potential for land use to drive sediment delivery to streams.
 
 But what happens when that sediment reaches the channel? As part of my Ph.D. work, I wanted to examine what the influence of sediment supply, and delivery timing, would be on braided channel morphology. So along with collaborators at Utah State University and in the UK, I employed the MoRPHED model I designed to conduct scenario-based modeling on the River Feshie in Scotland. Specifically, we modeled four sediment supply scenarios over a ten-year period on the Feshie (with 185 competent floods), which are shown in the table below.
 
+![](scenarios.png)
+
 When the simulations finished, what we found was really interesting: of the four scenarios modeled, both Deficit and Surplus led to loss of the braided planform, either due to incision and transition to a single-thread system, or to widespread sheet deposition over the braidplain. However, both the Equilibrium and Periodic Import scenarios resulted in maintenance of the braided planform:
+
+![](supply.png)
 
 **Results of MoRPHED Modeling using the four scenarios described above on the River Feshie.**
 
