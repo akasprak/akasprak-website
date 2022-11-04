@@ -37,15 +37,21 @@ To characterize the form of the channel before and after simulated floods, we ca
 
 To get a handle on particle travel distances during floods, we measured the average transport distance of marked particles during simulated floods. Particles were placed into the flow, and their initial locations marked. For the particles that we recovered after each of five floods, we measured their downstream travel distance.
 
+![](tracers.png)
+
 *Locations where we recovered tracers of three different colors are shown in dots, and the locations where they were put into the flow are shown in starts. Note the clustering of deposition around the mid-channel compound bar in the center of the DEM. Flow is from left to right.*
 
 I found that particle travel distance, or path length, indeed closely mirrored the mean bar spacing through the flume during my experiments, confirming our initial hypothesis. The results of the work were published in the <a href="http://onlinelibrary.wiley.com/doi/10.1002/2014JF003310/abstract" target="_blank"> Journal of Geophysical Research: Earth Surface</a>. The finding that we can approximate particle path lengths by measuring channel morphology has implications for the way we predict channel evolution during floods, especially by using morphodynamic models.
+
+![](pathlength.png)
 
 *Plot of particle travel distances for three colors of tracers from one flume run. The recovered tracers are shown in the DEM above. Note peak in  travel distance that corresponds with the mid-channel bar.* 
 
 **Using Path Lengths to Model River Evolution**
 
 Braided rivers are complex and dynamic systems, marked by a continually shifting network of channels diverging and converging around bars. Several factors, including high rates of sediment supply, high channel slope, and readily erodible banks can lead to a braided channel planform. Due in large part to (and perhaps in spite of) their dynamic nature, braided streams comprise vital habitat to numerous fish and aquatic organisms.
+
+![](feshie.png)
 
 *Two ways of looking at the River Feshie, one of our study sites for this project. Left, a photo looking upstream. Right, a laser-scanning point cloud (~250 million points) looking upstream.*
 
