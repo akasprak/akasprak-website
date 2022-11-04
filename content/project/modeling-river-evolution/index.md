@@ -21,11 +21,17 @@ In the field and in laboratory flumes, many geomorphologists have noticed that t
 
 If that hypothesis is true, it gives us a chance to address sediment transport in a very simple way. That is, we can predict sediment dynamics and, through time, channel evolution just by examining the spacing of channel bars? I’ve spent the last several years testing this hypothesized form-process linkage and its implications in gravel-bed braided rivers in the laboratory and in the field.
 
-I first sought to test the hypothesis described above, that particle travel distances during floods are mirrored by the average spacing between bars. Working with <a href="http://geography.uwo.ca/people/faculty/ashmore_peter.html" target="_blank"> Peter Ashmore </a> and <a href="http://grad.uwo.ca/profiles/speirce.html" target="_blank"> Sarah Peirce </a> at the University of Western Ontario and with <a href="http://www.joewheaton.org" target="_blank"> Joe Wheaton </a> and James Hensleigh at Utah State University, I conducted laboratory flume experiments at the University of Western Ontario.                   
+I first sought to test the hypothesis described above, that particle travel distances during floods are mirrored by the average spacing between bars. Working with <a href="http://geography.uwo.ca/people/faculty/ashmore_peter.html" target="_blank"> Peter Ashmore </a> and <a href="http://grad.uwo.ca/profiles/speirce.html" target="_blank"> Sarah Peirce </a> at the University of Western Ontario and with <a href="http://www.joewheaton.org" target="_blank"> Joe Wheaton </a> and James Hensleigh at Utah State University, I conducted laboratory flume experiments at the University of Western Ontario.                 
+
+![](uwo.jpg)
+
+  
 
 *The flume at the University of Western Ontario, looking upstream, with Peter Ashmore and Sarah Peirce for scale.*
 
 To characterize the form of the channel before and after simulated floods, we captured photos from a camera mounted above the flume and extracted elevation data using structure-from-motion photogrammetry. The resolution of the datasets we were able to produce was on the millimeter scale, meaning we could detect the motion of single grains of sand on the flume bed. It's the first time I'm aware of that SfM has been used at such a fine resolution in a flume setting.
+
+![](sfm.png)
 
 *A digital elevation model of the flume produced using structure-from-motion; pixel size is 3 millimeters.*
 
