@@ -52,3 +52,4 @@ image:
   preview_only: false
 date: 2018-05-01T23:09:00.000Z
 ---
+[View a copy of this manuscript here.](https://journals.sagepub.com/doi/full/10.1177/0309133318795846)

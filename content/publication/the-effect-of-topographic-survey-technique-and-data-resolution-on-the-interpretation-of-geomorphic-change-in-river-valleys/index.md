@@ -60,3 +60,4 @@ image:
   preview_only: false
 date: 2019-10-02T00:11:20.932Z
 ---
+[View a copy of this manuscript here.](https://www.sciencedirect.com/science/article/abs/pii/S0169555X19300546)

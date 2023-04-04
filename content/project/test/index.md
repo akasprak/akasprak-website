@@ -1,6 +1,6 @@
 ---
 title: Fort Lewis College GIS Certificate
-date: 2022-07-05T17:53:36.184Z
+date: 2022-07-01T18:06:10.527Z
 summary: Training the next generation of spatial scientists at Fort Lewis College
 draft: false
 featured: false
@@ -10,6 +10,7 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+  caption: ""
 ---
 At Fort Lewis College, I teach courses in spatial science and also direct the College's [Geographic Information Science Certificate](https://www.fortlewis.edu/academics/schools-departments/departments/geosciences-department/about-our-program/gis-certificate) program. My upper-level teaching responsibilities as part of the Certificate include:
 
