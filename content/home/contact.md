@@ -16,18 +16,18 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: akasprak@fortlewis.edu
-  phone: 970.247.6565
+  email: kasprak.alan@epa.gov
+  phone: 541.754.4441
   address:
-    street: Sitter Family Hall, 1000 Rim Drive
-    city: Durango
-    region: C0
-    postcode: '81301'
+    street: 
+    city: Corvallis
+    region: OR
+    postcode: '97330'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '44.5646'
+    longitude: '-123.2620'
 
 design:
   columns: '2'
