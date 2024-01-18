@@ -5,7 +5,7 @@ headless: true
 weight: 65
 title: Featured Projects
 subtitle: A subset of the research and teaching projects I'm working on at the moment
-active: true
+active: false
 content:
   page_type: project
   filter_default: 0
