@@ -10,7 +10,7 @@ interests:
 social:
   - display:
       header: false
-    link: mailto:kasprak.alan@epa.gov
+    link: mailto:kaspraka@oregonstate.edu
     icon_pack: fas
     icon: envelope
   - icon: graduation-cap
