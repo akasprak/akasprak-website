@@ -14,7 +14,7 @@ image:
     active channel, near-channel sandbars, and upland aeolian dunefields. Photo
     by Joel Sankey, USGS.
 ---
-River corridors are more than the river itself; the landforms that make up river systems include the active channel, floodplains, terraces, and uplands. Shaped by flowing water, overbank floods, and wind, these landforms represent the exchange, or connectivity, of sediment as it transits within the river system. And sediment connectivity is more than a physical process: the landforms that are created and maintained provide habitat for aquatic invertebrates, native fish, and riparian vegetation communities. 
+River corridors are more than the river itself; the landforms that make up river systems include the active channel, floodplains, terraces, and uplands. Shaped by flowing water, overbank floods, and wind, these landforms represent the exchange, or connectivity, of sediment as it transits within the river system. And sediment connectivity is more than a physical process: the landforms that are created and maintained provide habitat for aquatic invertebrates, native fish, and also riparian vegetation communities.  
 
 Changes to river flow can have profound impacts on the pathways and magnitude of sediment transfer within river corridors, and that's especially true downstream of large dams that alter hydrologic regimes. My work uses field surveys (including ground-based lidar and total station topographic mapping) in concert with remote sensing (such as satellite imagery and aerial photogrammetry) to quantify the relationship between hydrologic alteration and sediment transport over hundreds of miles of river corridors.
 
