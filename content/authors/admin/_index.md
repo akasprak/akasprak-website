@@ -36,7 +36,7 @@ education:
 superuser: true
 highlight_name: true
 ---
-I am a Research Physical Scientist in the Freshwater Ecology Branch of the U.S. Environmental Protection Agency's [Pacific Ecological Systems Division](https://www.epa.gov/aboutepa/about-pacific-ecological-systems-division-pesd) in Corvallis, Oregon.
+I am a Research Physical Scientist in the Freshwater Ecology Branch of the U.S. Environmental Protection Agency's [Pacific Ecological Systems Division](https://www.epa.gov/aboutepa/about-pacific-ecological-systems-division-pesd) in Corvallis, Oregon. I also hold a Courtesy Faculty appointment in Oregon State University's [College of Earth, Ocean, and Atmospheric Sciences](https://ceoas.oregonstate.edu/).
 
 My research focuses on understanding physical and biological processes in river systems using field work, numerical modeling, and remote sensing techniques. In particular, I work to understand the patterns and status of physical habitat in aquatic systems nationwide using data from the EPA’s [National Aquatic Resource Surveys](https://www.epa.gov/national-aquatic-resource-surveys). 
 
@@ -48,4 +48,4 @@ Prior to joining the EPA, I was a faculty member in the [Department of Geoscienc
 
  {{< icon name="download" pack="fas" >}} {{< staticref "uploads/kasprak_cv.pdf" "newtab" >}} Download a copy of my CV{{< /staticref >}} 
 
- {{< icon name="envelope" pack="fas" >}} Get in touch at [kasprak.alan@epa.gov](mailto:kasprak.alan@epa.gov).
+ {{< icon name="envelope" pack="fas" >}} Get in touch at [kaspraka@oregonstate.edu](mailto:kaspraka@oregonstate.edu)
