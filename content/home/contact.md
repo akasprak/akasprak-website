@@ -16,8 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: kasprak.alan@epa.gov
-  phone: 541.754.4441
+  email: kaspraka@oregonstate.edu
   address:
     street: 
     city: Corvallis
