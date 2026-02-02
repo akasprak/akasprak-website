@@ -29,8 +29,7 @@ abstract: >-
   management concepts that will better meet future needs. 
 draft: false
 featured: false
-projects:
-  - falling-reservoirs-and-river-recovery
+projects: []
 image:
   filename: featured
   focal_point: Smart
